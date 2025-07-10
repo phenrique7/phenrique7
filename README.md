@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am Paulo Henrique, also called PH. So, refer to me just as PH if you want. I am passionate software developer crafting efficient, maintainable and scalable code through legacy system migrations, full-fledged web applications, third-party API’s integrations, scripting, browser extensions.
+I am Paulo Henrique, also called PH. So, refer to me just as PH if you want. I am software developer specialized in JavaScript/TypeScript with over 8 years of experience building efficient, maintainable and scalable code through legacy system migrations, development of full-fledged web applications, third-party API’s integrations, Chrome browser extension and more.
+
+My work has been heavily focused on frontend development, particularly with React, Next.js, Typescript. But despite my frontend expertise, I bring a strong backend foundation that allows me to work effectively across the entire stack. Additionally, I'm keen to explore DevOps tooling, cloud computing, open source, compilers, and back-end/multiplatform development in Node and Kotlin.
 
 An interesting fact: I love solving programming challenges. My passion for competitive programming fueled my college studies, leading to a scholarship and teaching opportunities and the consolidation of my career as software engineer. Highlights: 2014, 2015, and 2016 regional participation in the [Maratona de Programação Brasileira](https://maratona.sbc.org.br/), including 2016 regional championship; and 2016 national finalist.
-
-For now, I’m digging into Java/Kotlin. My expertise is JavaScript/TypeScript, mainly on front-end web land (React/Next, some Vue/Nuxt and all ecosystem around them), but I also have strong fundamentals in backend development with Node and PHP.
 
 If I've caught your attention and you believe my skills and experience align with your needs, don't hesitate to hit me up on [LinkedIn](https://www.linkedin.com/in/phenrique7/).
 
